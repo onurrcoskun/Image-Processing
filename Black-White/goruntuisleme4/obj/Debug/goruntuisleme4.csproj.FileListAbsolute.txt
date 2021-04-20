@@ -1,0 +1,9 @@
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\bin\Debug\goruntuisleme4.exe.config
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\bin\Debug\goruntuisleme4.exe
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\bin\Debug\goruntuisleme4.pdb
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.Form1.resources
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.Properties.Resources.resources
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.csproj.GenerateResource.cache
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.exe
+C:\Users\Onur\source\repos\goruntuisleme4\goruntuisleme4\obj\Debug\goruntuisleme4.pdb
